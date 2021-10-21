@@ -1,0 +1,419 @@
+.ranges{
+
+}
+
+h3{
+	position: absolute;
+	top: 340px;
+	font-family: Helvetica;
+	font-size: 23px;
+}
+
+.underline{
+	width: 139px;
+	height: 5px;
+	background-color: black;
+	position: absolute;
+	top: 390px;
+
+}
+
+p{
+	width: 330px;
+	position: absolute;
+	top: 390px;
+	font-family: Helvetica;
+	font-size: 19px;
+	line-height: 24px;
+}
+
+.r1{
+	width: 40px;
+	height: 280px;
+	background-color: black;
+	position: absolute;
+	top: 50px;
+}
+
+.r2{
+	width: 170px;
+	height: 150px;
+	background-color: black;
+	border-radius: 0 10px 0 0;
+	position: absolute;
+	top: 50px;
+}
+
+.r3{
+	width: 100px;
+	height: 100px;
+	background-color: white;
+	position: absolute;
+	top: 75px;
+	left: 45px;
+}
+
+.r4{
+	width: 40px;
+	height: 130px;
+	background-color: black;
+	transform: skew(25deg);
+	position: absolute;
+	top: 200px;
+	left: 140px;
+}
+
+.r5{
+	width: 30px;
+	height: 30px;
+	background-color: white;
+	transform: rotate(65deg);
+	position: absolute;
+	top: 230px;
+	left: 130px;
+}
+
+.r6{
+	width: 30px;
+	height: 30px;
+	background-color: black;
+	transform: rotate(45deg);
+	position: absolute;
+	top: 245px;
+	left: 110px;
+}
+
+.r7{
+	width: 50px;
+	height: 30px;
+	background-color: black;
+	transform: rotate(25deg);
+	position: absolute;
+	top: 185px;
+	left: 40px;
+	border-radius: 0 10px 90px 10px;
+}
+
+.r8{
+	width: 30px;
+	height: 30px;
+	background-color: black;
+	transform: rotate(45deg);
+	position: absolute;
+	top: 270px;
+	left: 50px;
+	border-radius: 0 25px 30px 25px;
+}
+
+.r9{
+	width: 30px;
+	height: 30px;
+	background-color: black;
+	transform: rotate(45deg);
+	position: absolute;
+	top: 60px;
+	left: 90px;
+	border-radius: 0 10px 90px 10px;
+}
+.r10{
+	width: 30px;
+	height: 30px;
+	background-color: white;
+	transform: rotate(45deg);
+	position: absolute;
+	top: 30px;
+	left: 80px;
+	border-radius: 0 10px 90px 10px;
+}
+
+
+.a1{
+	width: 40px;
+	height: 280px;
+	background-color: black;
+	transform: skew(-10deg);
+	position: absolute;
+	top: 50px;
+	left: 270px;	
+}
+
+.a2{
+	width: 40px;
+	height: 280px;
+	background-color: black;
+	transform: skew(10deg);
+	position: absolute;
+	top: 50px;
+	left: 380px;
+}
+
+.a3{
+	width: 40px;
+	height: 30px;
+	background-color: black;
+	position: absolute;
+	top: 50px;
+	left: 330px;
+}
+
+.a4{
+	width: 100px;
+	height: 30px;
+	background-color: black;
+	position: absolute;
+	top: 170px;
+	left: 300px;
+}
+
+.a5{
+	width: 80px;
+	height: 30px;
+	background-color: white;
+	transform: rotate(35deg);
+	position: absolute;
+	top: 30px;
+	left: 340px;
+}
+
+.a6{
+	width: 30px;
+	height: 30px;
+	background-color: black;
+	transform: rotate(15deg);
+	position: absolute;
+	top: 70px;
+	left: 380px;
+	border-radius: 10px 30px 10px 0;
+}
+
+.a7{
+	width: 20px;
+	height: 20px;
+	background-color: black;
+	transform: rotate(15deg);
+	position: absolute;
+	top: 110px;
+	left: 410px;
+	border-radius: 0 25px 30px 25px;
+}
+
+.a8{
+	width: 0px;
+	height: 0px;
+	position: absolute; 
+	top:  182px;
+	left: 323px;
+	border-left: 20px solid transparent;
+	border-right: 20px solid transparent;
+	border-top: 20px solid rgb(255, 255, 255);
+	transform: rotate(-30deg);
+}
+
+.a9{
+	width: 0px;
+	height: 0px;
+	position: absolute; 
+	top:  225px;
+	left: 323px;
+	border-left: 20px solid transparent;
+	border-right: 20px solid transparent;
+	border-bottom: 20px solid rgb(0, 0, 0);
+	transform: rotate(-100deg);
+}
+
+.n1{
+	width: 280px;
+	height: 280px;
+	background-color: black;
+	position: absolute;
+	top: 50px;
+	left: 470px;
+}
+
+.n2{
+	width: 0px;
+	height: 0px;
+	position: absolute; 
+	top:  320px;
+	left: 330px;
+	border-left: 300px solid transparent;
+	border-right: 300px solid transparent;
+	border-top: 300px solid rgb(255, 255, 255);
+	transform: rotate(-315deg);
+}
+
+.n3{
+	width: 0px;
+	height: 0px;
+	position: absolute; 
+	top:  0px;
+	left: 490px;
+	border-left: 150px solid transparent;
+	border-right: 150px solid transparent;
+	border-bottom: 150px solid rgb(255, 255, 255);
+	transform: rotate(45deg);
+}
+
+.n4{
+	width: 300px;
+	height: 60px;
+	background-color: white;
+	transform: rotate(10deg);
+	position: absolute;
+	top: 20px;
+	left: 460px;
+}
+
+.n5{
+	width: 30px;
+	height: 30px;
+	background-color: white;
+	transform: rotate(45deg);
+	position: absolute;
+	top: 180px;
+	left: 570px;
+}
+
+.n6{
+	width: 30px;
+	height: 30px;
+	background-color: black;
+	transform: rotate(199deg);
+	position: absolute;
+	top: 220px;
+	left: 560px;
+}
+
+.n7{
+	width: 40px;
+	height: 40px;
+	background-color: black;
+	transform: rotate(-55deg);
+	border-radius: 0 20px 40px 20px;
+	position: absolute;
+	top: 300px;
+	left: 725px;
+}
+
+.n8{
+	width: 30px;
+	height: 30px;
+	background-color: black;
+	transform: rotate(-45deg);
+	border-radius: 30px 0 30px 40px;
+	position: absolute;
+	top: 350px;
+	left: 735px;	
+}
+
+.g1{
+	width: 280px;
+	height: 280px;
+	background-color: black;
+	border-radius: 50%;
+	position: absolute;
+	top: 50px;
+	left: 800px;
+}
+
+.g2{
+	width: 280px;
+	height: 280px;
+	background-color: black;
+	border-radius: 35px 0 60px 0;
+	position: absolute;
+	top: 50px;
+	left: 800px;
+}
+
+.g3{
+	width: 180px;
+	height: 160px;
+	background-color: white;
+	border-radius: 50%;
+	transform: scaleY(1.3);
+	position: absolute;
+	top: 115px;
+	left: 840px;
+}
+
+.g4{
+	width: 150px;
+	height: 80px;
+	background-color: white;
+	position: absolute;
+	top: 130px;
+	left: 970px;
+}
+
+.g5{
+	width: 100px;
+	height: 40px;
+	background-color: black;
+	position: absolute;
+	top: 200px;
+	left: 980px;
+}
+
+.g6{
+	width: 30px;
+	height: 30px;
+	background-color: black;
+	transform: rotate(-45deg);
+	border-radius: 30px 0 30px 40px;
+	position: absolute;
+	top: 335px;
+	left: 1025px;
+}
+
+.g7{
+	width: 0px;
+	height: 0px;
+	position: absolute;
+	top: 90px;
+	left: 830px;
+	border-left: 40px solid transparent;
+	border-right: 40px solid transparent;
+	border-bottom: 40px solid rgb(255, 255, 255);
+	transform: rotate(-175deg);
+}
+
+.g8{
+	width: 0px;
+	height: 0px;
+	position: absolute;
+	top: 150px;
+	left: 870px;
+	border-left: 40px solid transparent;
+	border-right: 40px solid transparent;
+	border-bottom: 40px solid rgb(0, 0, 0);
+	transform: rotate(230deg);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
