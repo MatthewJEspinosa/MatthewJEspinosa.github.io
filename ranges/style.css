@@ -1,3 +1,9 @@
+.all{
+	transform: scale(0.77);
+	position: absolute;
+	left: -35px;
+}
+
 .ranges{
 	position: absolute;
 	top: 50px;
@@ -10,7 +16,7 @@
 
 .ranges:hover .r6{
 	transform: rotate(-405deg);
-	top: 655px;
+	top: 670px;
 	left: 30px;
 }
 
@@ -497,7 +503,7 @@
 	transition-delay: .7s;
 }
 
-.g7{
+.ranges:hover .g7{
 	width: 0px;
 	height: 0px;
 	position: absolute;
@@ -506,19 +512,33 @@
 	border-left: 40px solid transparent;
 	border-right: 40px solid transparent;
 	border-bottom: 40px solid rgb(255, 255, 255);
+	transform: rotate(-175deg);	
+}
+
+.g7{
+	width: 0px;
+	height: 0px;
+	position: absolute;
+	top: 80px;
+	left: 830px;
+	border-left: 40px solid transparent;
+	border-right: 40px solid transparent;
+	border-bottom: 40px solid rgb(255, 255, 255);
 	transform: rotate(-175deg);
+	transition: all .15s;
+	transition-delay: .9s;
 }
 
 .g8{
 	width: 0px;
 	height: 0px;
 	position: absolute;
-	top: 87px;
-	left: 835px;
-	border-left: 40px solid transparent;
-	border-right: 40px solid transparent;
+	top: 80px;
+	left: 830px;
+	border-left: 40.9px solid transparent;
+	border-right: 40.9px solid transparent;
 	border-bottom: 40px solid rgb(0, 0, 0);
-	transform: rotate(-172deg);
+	transform: rotate(-175deg);
 	transition: all 5s;
 	transition-delay: .9s;
 }
@@ -722,8 +742,8 @@
 
 h3{
 	position: absolute;
-	top: 390px;
-	left: 130px;
+	top: 295px;
+	left: 64px;
 	font-family: Helvetica;
 	font-size: 23px;
 }
@@ -733,19 +753,20 @@ h3{
 	height: 4px;
 	background-color: black;
 	position: absolute;
-	top: 440px;
-	left: 131px;
+	top: 346px;
+	left: 65px;
 
 }
 
 p{
 	width: 330px;
 	position: absolute;
-	top: 435px;
-	left: 130px;
+	top: 330px;
+	left: 47px;
 	font-family: Helvetica;
 	font-size: 19px;
 	line-height: 24px;
+	transform: scale(0.9);
 }
 
 
