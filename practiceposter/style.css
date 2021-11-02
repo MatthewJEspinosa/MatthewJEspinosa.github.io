@@ -1,0 +1,35 @@
+.img{
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	margin: auto;
+	width: 100vw;
+	height: 100vh;
+	background-image: url(lion.JPG);
+	background-size: cover;
+	background-position: center;
+}
+
+h1{
+	position: absolute;
+	top: 450px;
+	left: 420px;
+	font-family: servus-slab, serif;
+	font-size: 5vw;
+	font-weight: 700;
+	font-style: normal;
+}
+
+p{
+	width: 300px;
+	position: absolute;
+	top: 600px;
+	left: 490px;
+	font-size: 29px;
+font-family: antiquarian-scribe, sans-serif;
+font-weight: 600;
+font-style: normal;
+
+}
