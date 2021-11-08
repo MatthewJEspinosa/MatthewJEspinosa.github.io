@@ -15,8 +15,8 @@
 
 .img2{
 	position: absolute;
-	top: 0;
-	left: 0;
+	top: -9vh;
+	left: -45vw;
 	bottom: 0;
 	right: 0;
 	margin: auto;
@@ -25,13 +25,27 @@
 	background-image: url(earth2.jpg);
 	background-size: cover;
 	background-position: center;
-	opacity: 0;
-	transition: 3s;
+	pointer-events: none;
+	
 }
 
-.img2:hover {
-	opacity: 100;
+.hoverable:hover {
+	opacity: 1;
 
+}
+
+.hoverable{
+	position: absolute;
+	top: 5vw;
+	left: 0vw;
+	bottom: 0;
+	right: 0;
+	margin: auto;
+	width: 10vw;
+	height: 10vw;
+	background-color: rgba(0, 255, 0, 0.5);
+	opacity: 0;
+	transition: 3s;
 }
 
 
@@ -197,6 +211,7 @@
 
 .img2{
 	background-image: url(earth2v.jpg);
+	top: -3vh;
 }
 
 .title{
