@@ -8,7 +8,7 @@
 	margin: auto;
 	width: 100vw;
 	height: 100vh;
-	background-image: url(earth.JPG);
+	background-image: url(earth.jpg);
 	background-size: cover;
 	background-position: center;
 }
@@ -22,10 +22,10 @@
 	margin: auto;
 	width: 100vw;
 	height: 100vh;
-	background-image: url(earth2.JPG);
+	background-image: url(earth2.jpg);
 	background-size: cover;
 	background-position: center;
-	opacity: 100;
+	opacity: 0;
 	transition: 3s;
 }
 
