@@ -1,0 +1,295 @@
+.img{
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	margin: auto;
+	width: 100vw;
+	height: 100vh;
+	background-image: url(earth.JPG);
+	background-size: cover;
+	background-position: center;
+}
+
+.img2{
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	margin: auto;
+	width: 100vw;
+	height: 100vh;
+	background-image: url(earth2.JPG);
+	background-size: cover;
+	background-position: center;
+	opacity: 0;
+	transition: 3s;
+}
+
+.img2:hover {
+	opacity: 100;
+
+}
+
+
+.title{
+	position: absolute;
+	top: 4vh;
+	left: 21vw;
+	font-family: orbitron,sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 5vw;
+	color: rgb(255, 255, 255);
+}
+
+.date{
+	position: absolute;
+	top: 60vh;
+	left: 10vw;
+	font-family: orbitron,sans-serif;
+	font-weight: 300;
+	font-size: 2vw;
+	font-style: normal;
+	color: rgb(255, 255, 255);
+}
+
+.date2{
+	position: absolute;
+	top: 65vh;
+	left: 4.5vw;
+	font-family: orbitron,sans-serif;
+	font-weight: 300;
+	font-size: 2vw;
+	font-style: normal;
+	color: rgb(255, 255, 255);
+}
+
+.free{
+	position: absolute;
+	top: 55vh;
+	left: 72vw;
+	font-family: orbitron,sans-serif;
+	font-weight: 300;
+	font-size: 2vw;
+	font-style: normal;
+	color: rgb(255, 255, 255);
+}
+
+.adult{
+	position: absolute;
+	top: 58.8vh;
+	left: 72vw;
+	font-family: orbitron,sans-serif;
+	font-weight: 300;
+	font-size: 2vw;
+	font-style: normal;
+	color: rgb(255, 255, 255);
+}
+
+.child{
+	position: absolute;
+	top: 62.6vh;
+	left: 72vw;
+	font-family: orbitron,sans-serif;
+	font-weight: 300;
+	font-size: 2vw;
+	font-style: normal;
+	color: rgb(255, 255, 255);
+}
+
+.student{
+	position: absolute;
+	top: 66.4vh;
+	left: 72vw;
+	font-family: orbitron,sans-serif;
+	font-weight: 300;
+	font-size: 2vw;
+	font-style: normal;
+	color: rgb(255, 255, 255);
+}
+
+.senior{
+	position: absolute;
+	top: 70.2vh;
+	left: 72vw;
+	font-family: orbitron,sans-serif;
+	font-weight: 300;
+	font-size: 2vw;
+	font-style: normal;
+	color: rgb(255, 255, 255);
+}
+
+.address{
+	position: absolute;
+	top: 89vh;
+	left: 35vw;
+	font-family: orbitron,sans-serif;
+	font-weight: 300;
+	font-size: 1.5vw;
+	font-style: normal;
+	color: rgb(255, 255, 255);
+}
+
+.address2{
+	position: absolute;
+	top: 92vh;
+	left: 32vw;
+	font-family: orbitron,sans-serif;
+	font-weight: 300;
+	font-size: 1.5vw;
+	font-style: normal;
+	color: rgb(255, 255, 255);
+}
+
+
+.earth{
+	position: absolute;
+	top: 4vh;
+	left: 42.5vw;
+	font-family: orbitron,sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 5vw;
+	color: rgb(255, 255, 255);
+}
+
+.g1{
+	position: absolute;
+	top: 92vh;
+	left: 10vw;
+	font-family: orbitron,sans-serif;
+	font-weight: 300;
+	font-size: 1.5vw;
+	font-style: normal;
+	color: rgb(255, 255, 255);
+}
+
+.g2{
+	position: absolute;
+	top: 94vh;
+	left: 44vw;
+	font-family: orbitron,sans-serif;
+	font-weight: 300;
+	font-size: 1.5vw;
+	font-style: normal;
+	color: rgb(255, 255, 255);
+}
+
+.g3{
+	position: absolute;
+	top: 78vh;
+	left: 80vw;
+	font-family: orbitron,sans-serif;
+	font-weight: 300;
+	font-size: 1.5vw;
+	font-style: normal;
+	color: rgb(255, 255, 255);
+}
+
+@media (max-width: 390px) {
+
+.img{
+    background-image: url("earth2av.jpg");
+}
+
+.img2{
+	background-image: url(earth2v.jpg);
+}
+
+.title{
+	font-size: 7vw;
+	left: 10vw;
+}
+
+.date{
+	font-size: 4vw;
+	top: 25vh;
+	left: 45vw;
+}
+
+.date2{
+	font-size: 4vw;
+	top: 28.5vh;
+	left: 45vw;
+}
+
+.free{
+	font-size: 3vw;
+	top: 55vh;
+	left: 55vw;
+}
+
+.adult{
+	font-size: 3vw;
+	top: 58vh;
+	left: 55vw;
+}
+
+.child{
+	font-size: 3vw;
+	top: 61.5vh;
+	left: 55vw;
+}
+
+.student{
+	font-size: 3vw;
+	top: 65vh;
+	left: 55vw;
+}
+
+.senior{
+	font-size: 3vw;
+	top: 68.5vh;
+	left: 55vw;
+}
+
+.address{
+	font-size: 2vw;
+	top: 91vh;
+	left: 30.5vw;
+}
+
+.address2{
+	font-size: 2vw;
+	top: 93vh;
+	left: 26vw;
+}
+
+.earth{
+	transform: rotate(-90deg);
+	top: 45vh;
+	left: 1.5vw;
+	font-size: 7vw;
+}
+
+.g1{
+	font-size: 3vw;
+	top: 94.5vh;
+	left: 44vw;
+}
+
+.g2{
+	font-size: 3vw;
+	top: 60vh;
+	left: 75vw;
+}
+
+.g3{
+	font-size: 3vw;
+	top: 6vh;
+	left: 67vw;
+}
+
+
+
+
+
+
+
+
+
+
+}
