@@ -209,13 +209,11 @@
 
 .img{
     background-image: url("earth2av.jpg");
-    left: -3vw;
 }
 
 .img2{
 	background-image: url(earth2v.jpg);
 	top: -3vh;
-	left: -3vw;
 }
 
 .title{
@@ -227,57 +225,58 @@
 .date{
 	font-size: 4vw;
 	top: 25vh;
-	left: 43vw;
+	left: 39vw;
 
 }
 
 .date2{
+	width: 200px;
 	font-size: 4vw;
-	top: 28vh;
-	left: 43vw;
-	line-height: 3.5vh;
+	top: 27.7vh;
+	left: 39vw;
+	line-height: 2.7vh;
 }
 
 .free{
 	font-size: 3vw;
 	top: 59vh;
-	left: 43vw;
+	left: 39vw;
 }
 
 .adult{
 	font-size: 3vw;
-	top: 62vh;
-	left: 43vw;
+	top: 61.5vh;
+	left: 39vw;
 }
 
 .child{
 	font-size: 3vw;
-	top: 65.5vh;
-	left: 43vw;
+	top: 64vh;
+	left: 39vw;
 }
 
 .student{
 	font-size: 3vw;
-	top: 69vh;
-	left: 43vw;
+	top: 66.5vh;
+	left: 39vw;
 }
 
 .senior{
 	font-size: 3vw;
 	top: 72.5vh;
-	left: 43vw;
+	left: 39vw;
 }
 
 .address{
 	font-size: 2vw;
 	top: 84vh;
-	left: 43vw;
+	left: 39vw;
 }
 
 .address2{
 	font-size: 2vw;
-	top: 87vh;
-	left: 43vw;
+	top: 86.5vh;
+	left: 39vw;
 }
 
 .earth{
