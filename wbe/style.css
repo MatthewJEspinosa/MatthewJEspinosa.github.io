@@ -62,7 +62,7 @@
 
 .date{
 	position: absolute;
-	top: 60vh;
+	top: 56.5vh;
 	left: 4.5vw;
 	font-family: orbitron,sans-serif;
 	font-weight: 300;
@@ -72,19 +72,21 @@
 }
 
 .date2{
+	width: 400px;
 	position: absolute;
-	top: 65vh;
+	top: 61.5vh;
 	left: 4.5vw;
 	font-family: orbitron,sans-serif;
 	font-weight: 300;
 	font-size: 2vw;
 	font-style: normal;
+	line-height: 38px;
 	color: rgb(255, 255, 255);
 }
 
 .free{
 	position: absolute;
-	top: 55vh;
+	top: 56vh;
 	left: 71vw;
 	font-family: orbitron,sans-serif;
 	font-weight: 300;
@@ -95,7 +97,7 @@
 
 .adult{
 	position: absolute;
-	top: 60vh;
+	top: 61vh;
 	left: 71vw;
 	font-family: orbitron,sans-serif;
 	font-weight: 300;
@@ -106,7 +108,7 @@
 
 .child{
 	position: absolute;
-	top: 65vh;
+	top: 66vh;
 	left: 71vw;
 	font-family: orbitron,sans-serif;
 	font-weight: 300;
@@ -117,7 +119,7 @@
 
 .student{
 	position: absolute;
-	top: 70vh;
+	top: 71vh;
 	left: 71vw;
 	font-family: orbitron,sans-serif;
 	font-weight: 300;
@@ -128,7 +130,7 @@
 
 .senior{
 	position: absolute;
-	top: 75vh;
+	top: 76vh;
 	left: 71vw;
 	font-family: orbitron,sans-serif;
 	font-weight: 300;
@@ -140,21 +142,21 @@
 .address{
 	position: absolute;
 	top: 87vh;
-	left: 35vw;
+	left: 37vw;
 	font-family: orbitron,sans-serif;
 	font-weight: 300;
-	font-size: 1.5vw;
+	font-size: 1.3vw;
 	font-style: normal;
 	color: rgb(255, 255, 255);
 }
 
 .address2{
 	position: absolute;
-	top: 92vh;
-	left: 32vw;
+	top: 91vh;
+	left: 34vw;
 	font-family: orbitron,sans-serif;
 	font-weight: 300;
-	font-size: 1.5vw;
+	font-size: 1.3vw;
 	font-style: normal;
 	color: rgb(255, 255, 255);
 }
@@ -207,11 +209,13 @@
 
 .img{
     background-image: url("earth2av.jpg");
+    left: -3vw;
 }
 
 .img2{
 	background-image: url(earth2v.jpg);
 	top: -3vh;
+	left: -3vw;
 }
 
 .title{
@@ -223,57 +227,57 @@
 .date{
 	font-size: 4vw;
 	top: 25vh;
-	left: 45vw;
+	left: 43vw;
 
 }
 
 .date2{
 	font-size: 4vw;
-	top: 28.5vh;
-	left: 45vw;
+	top: 28vh;
+	left: 43vw;
 	line-height: 3.5vh;
 }
 
 .free{
 	font-size: 3vw;
 	top: 59vh;
-	left: 45vw;
+	left: 43vw;
 }
 
 .adult{
 	font-size: 3vw;
-	top: 62.5vh;
-	left: 45vw;
+	top: 62vh;
+	left: 43vw;
 }
 
 .child{
 	font-size: 3vw;
-	top: 66vh;
-	left: 45vw;
+	top: 65.5vh;
+	left: 43vw;
 }
 
 .student{
 	font-size: 3vw;
-	top: 69.5vh;
-	left: 45vw;
+	top: 69vh;
+	left: 43vw;
 }
 
 .senior{
 	font-size: 3vw;
-	top: 73vh;
-	left: 45vw;
+	top: 72.5vh;
+	left: 43vw;
 }
 
 .address{
 	font-size: 2vw;
 	top: 84vh;
-	left: 45vw;
+	left: 43vw;
 }
 
 .address2{
 	font-size: 2vw;
 	top: 87vh;
-	left: 45vw;
+	left: 43vw;
 }
 
 .earth{
