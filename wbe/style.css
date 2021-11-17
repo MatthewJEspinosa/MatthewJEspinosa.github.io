@@ -141,7 +141,7 @@
 
 .address{
 	position: absolute;
-	top: 87vh;
+	top: 86vh;
 	left: 37vw;
 	font-family: orbitron,sans-serif;
 	font-weight: 300;
@@ -152,7 +152,7 @@
 
 .address2{
 	position: absolute;
-	top: 91vh;
+	top: 90vh;
 	left: 34vw;
 	font-family: orbitron,sans-serif;
 	font-weight: 300;
@@ -161,6 +161,17 @@
 	color: rgb(255, 255, 255);
 }
 
+.sun{
+	position: absolute;
+	top: 94vh;
+	left: 40vw;
+	font-family: orbitron,sans-serif;
+	font-weight: 300;
+	font-size: 1.1vw;
+	font-style: normal;
+	color: rgb(255, 255, 255);
+	letter-spacing: 1px;
+}
 
 .earth{
 	position: absolute;
@@ -276,6 +287,12 @@
 .address2{
 	font-size: 2vw;
 	top: 86.5vh;
+	left: 39vw;
+}
+
+.sun{
+	font-size: 1.5vw;
+	top: 89.25vh;
 	left: 39vw;
 }
 
