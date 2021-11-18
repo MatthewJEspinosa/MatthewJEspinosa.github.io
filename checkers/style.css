@@ -1,0 +1,29 @@
+.black{
+	width: 200px;
+	height: 200px;
+	background-color: rgb(0, 0, 0);
+	position: relative;
+	margin-top: 5px;
+	margin-left: 5px;
+	display: inline-block;
+}
+
+.red{
+	width: 200px;
+	height: 200px;
+	background-color: rgb(190, 20, 42);
+	position: relative;
+	margin-top: 5px;
+	margin-left: 5px;
+	display: inline-block;
+}
+
+.piece{
+	width: 150px;
+	height: 150px;
+	background-color: rgb(0, 0, 0);
+	border-radius: 50%;
+	position: absolute;
+	top: 25px;
+	left: 25px;
+}
