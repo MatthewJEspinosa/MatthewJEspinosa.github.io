@@ -1,0 +1,85 @@
+.map{
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	margin: auto;
+	width: 100vw;
+	height: 100vh;
+	background-image: url(world.svg);
+	background-size: cover;
+	background-position: center;
+	background-color: rgb(30, 60, 170);
+}
+
+.sa{
+	width: 36vw;
+	height: 49vh;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	bottom: 0vh;
+	opacity: 0;
+}
+
+.na{
+	width: 40vw;
+	height: 51vh;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 0vh;
+	left: 0vw;
+	opacity: 0;
+}
+
+.africa{
+	width: 23vw;
+	height: 44vh;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	bottom: 20vh;
+	left: 40vw;
+	opacity: 0;
+}
+
+.europe{
+	width: 14vw;
+	height: 21vh;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 15vh;
+	left: 43vw;
+	opacity: 0;
+}
+
+.asia{
+	width: 37.8vw;
+	height: 52vh;
+	background-color: rgb(0, 0, 0);
+	border-radius: 0 0 0 250px;
+	position: absolute;
+	top: 12vh;
+	right: 5vw;
+	opacity: 0;
+}
+
+.austrailia{
+	width: 20vw;
+	height: 23vh;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	bottom: 13vh;
+	right: 0vw;
+	opacity: 0;
+}
+
+.choose{
+	position: absolute;
+	bottom: 3vh;
+	left: 50vw;
+	color: rgb(255, 255, 255);
+	transform: scale(2.5);
+	font-family: tuppence,serif;
+	font-weight: 300;
+	font-style: normal;
+}

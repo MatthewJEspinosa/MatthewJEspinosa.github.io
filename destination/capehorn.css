@@ -1,0 +1,119 @@
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 280px;
+  height: 290px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+  opacity: 1;
+}
+
+div.gallery img {
+  width: 100%;
+  height: 80%;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+  font-size: 21px;
+}
+
+.hover1:hover{
+  opacity: 1;
+}
+
+.hover1{
+  width: 20vw;
+  height: 35vh;
+  background-color: rgba(0, 0, 0, 0);
+  position: absolute;
+  top: 1vh;
+  left: 1vw;
+  opacity: 0;
+  transition: all 2s;
+}
+
+.what{
+  width: 30vw;
+  position: absolute;
+  top: 38vh;
+  left: .5vw;
+  pointer-events: none;
+}
+
+.what2{
+  width: 20vw;
+  position: absolute;
+  top: 45vh;
+  left: .5vw;
+  pointer-events: none;
+  font-size: 21px;
+  line-height: 26px;
+}
+
+.hover4:hover{
+  opacity: 1;
+}
+
+.hover4{
+  width: 20vw;
+  height: 35vh;
+  background-color: rgba(0, 0, 0, 0);
+  position: absolute;
+  top: 1vh;
+  right: 17vw;
+  opacity: 0;
+  transition: all 2s;
+}
+
+.one{
+  width: 30vw;
+  height: 30vh;
+  background-image: url(ch6.jpg);
+  background-position: center;
+  background-size: cover;
+  position: absolute;
+  top: 40vh;
+  left: -62vw;
+  pointer-events: none;
+}
+
+.two{
+width: 30vw;
+  height: 30vh;
+  background-image: url(ch3.jpg);
+  background-position: center;
+  background-size: cover;
+  position: absolute;
+  top: 67vh;
+  left: -40vw;
+  pointer-events: none;
+}
+
+.three{
+width: 30vw;
+  height: 30vh;
+  background-image: url(ch7.jpg);
+  background-position: center;
+  background-size: cover;
+  position: absolute;
+  top: 40vh;
+  left: -12vw;
+  pointer-events: none;
+}
+
+.four{
+width: 30vw;
+  height: 30vh;
+  background-image: url(ch8.jpg);
+  background-position: center;
+  background-size: cover;
+  position: absolute;
+  top: 67vh;
+  left: 5.5vw;
+  pointer-events: none;
+}

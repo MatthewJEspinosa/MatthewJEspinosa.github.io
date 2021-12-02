@@ -1,0 +1,72 @@
+.map{
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	margin: auto;
+	width: 100vw;
+	height: 100vh;
+	background-image: url(europe2.svg);
+	background-size: contain;
+	background-position: right;
+	background-repeat: no-repeat;
+	background-color: rgb(30, 60, 170);
+}
+
+.menton{
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	bottom: 31vh;
+	left: 43vw;
+}
+
+.durbuy{
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	bottom: 42.8vh;
+	left: 41.7vw;
+}
+
+.visby{
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	bottom: 54vh;
+	left: 51vw;
+}
+
+.chioggia{
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	bottom: 33.5vh;
+	left: 47.4vw;
+}
+
+.elblag{
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	bottom: 49vh;
+	left: 52vw;
+}
+
+.button{
+	position: absolute;
+	top: 2vh;
+	left: 2vw;
+	width: 140px;
+	height: 60px;
+	background-color: rgba(100, 180, 100, .9);
+	border-radius: 20px 20px 20px 20px;
+}
+
+.button2{
+	position: absolute;
+	left: 9px;
+	font-size: 19px;
+	color: rgb(255, 255, 255);
+}

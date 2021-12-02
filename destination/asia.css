@@ -1,0 +1,72 @@
+.map{
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	margin: auto;
+	width: 100vw;
+	height: 100vh;
+	background-image: url(Asia.svg);
+	background-size: contain;
+	background-position: left;
+	background-repeat: no-repeat;
+	background-color: rgb(30, 60, 170);
+}
+
+.garden{
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	bottom: 54.5vh;
+	left: 55.2vw;
+}
+
+.bantayan{
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	bottom: 31vh;
+	left: 51.7vw;
+}
+
+.yakushima{
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	bottom: 50.6vh;
+	left: 53.5vw;
+}
+
+.coonoor{
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	bottom: 30vh;
+	left: 28vw;
+}
+
+.geysers{
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	bottom: 74vh;
+	left: 10vw;
+}
+
+.button{
+	position: absolute;
+	top: 2vh;
+	right: 2vw;
+	width: 140px;
+	height: 60px;
+	background-color: rgba(100, 180, 100, .9);
+	border-radius: 20px 20px 20px 20px;
+}
+
+.button2{
+	position: absolute;
+	left: 9px;
+	font-size: 19px;
+	color: rgb(255, 255, 255);
+}

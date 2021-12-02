@@ -1,0 +1,72 @@
+.map{
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	margin: auto;
+	width: 100vw;
+	height: 100vh;
+	background-image: url(africa.svg);
+	background-size: contain;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-color: rgb(30, 60, 170);
+}
+
+.lewa{
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	bottom: 48vh;
+	left: 64vw;
+}
+
+.kafue{
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	bottom: 26vh;
+	left: 56vw;
+}
+
+.ladigue{
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	bottom: 44vh;
+	left: 78vw;
+}
+
+.table{
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	bottom: 1vh;
+	left: 49vw;
+}
+
+.capsainte{
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	bottom: 11.7vh;
+	left: 68.3vw;
+}
+
+.button{
+	position: absolute;
+	top: 2vh;
+	left: 2vw;
+	width: 140px;
+	height: 60px;
+	background-color: rgba(100, 180, 100, .9);
+	border-radius: 20px 20px 20px 20px;
+}
+
+.button2{
+	position: absolute;
+	left: 9px;
+	font-size: 19px;
+	color: rgb(255, 255, 255);
+}
