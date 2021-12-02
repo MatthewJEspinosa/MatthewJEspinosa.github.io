@@ -1,0 +1,24 @@
+.globe{
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	margin: auto;
+	width: 100vw;
+	height: 100vh;
+	background-image: url(globe.gif);
+	background-size: cover;
+	background-position: center;
+}
+
+.welcome{
+	position: absolute;
+	top: 6vh;
+	left: 44vw;
+	color: rgb(255, 255, 255);
+	transform: scale(4.0);
+	font-family: tuppence,serif;
+	font-weight: 300;
+	font-style: normal;
+}
