@@ -1,5 +1,5 @@
 .title{
-  width: 30vw;
+  width: 35vw;
   height: 10vh;
   position: relative;
   top: 0vh;
@@ -11,7 +11,7 @@
 .title2{
   position: absolute;
   top: -9vh;
-  left: 5vw;
+  left: 7vw;
   font-size: 4vw;
   font-family: tuppence,serif;
   font-weight: 300;
@@ -110,7 +110,7 @@ div.moree img {
   width: 30vw;
   position: absolute;
   top: 82vh;
-  left: 19vw;
+  left: 18vw;
   font-size: 1.4vw;
     font-family: tuppence,serif;
   font-weight: 300;
@@ -154,10 +154,10 @@ div.moree img {
 }
 
 .more{
-  width: 41vw;
+  width: 45vw;
   position: absolute;
   top: 205vh;
-  left: 3vw;
+  left: 2vw;
   font-size: 1.4vw;
   text-align: center;
     font-family: tuppence,serif;
