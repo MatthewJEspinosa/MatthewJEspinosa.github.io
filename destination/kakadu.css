@@ -1,17 +1,17 @@
 .title{
-  width: 48vw;
+  width: 50vw;
   height: 10vh;
   position: relative;
   top: 0vh;
-  left: 27vw;
+  left: 25vw;
   border-style: solid;
   border-color: rgb(0, 0, 0,);
 }
 
 .title2{
   position: absolute;
-  top: -10vh;
-  left: 3vw;
+  top: -9vh;
+  left: 4.5vw;
   font-size: 4vw;
   font-family: tuppence,serif;
   font-weight: 300;
@@ -82,7 +82,7 @@ div.moree img {
   width: 40vw;
   position: absolute;
   top: 22vh;
-  right: 0.5vw;
+  right: .5vw;
   font-size: 1.4vw;
     font-family: tuppence,serif;
   font-weight: 300;
@@ -102,7 +102,7 @@ div.moree img {
 }
 
 .where{
-  width: 35vw;
+  width: 40vw;
   position: absolute;
   top: 82vh;
   left: 8vw;
@@ -129,7 +129,7 @@ div.moree img {
   width: 40vw;
   position: absolute;
   top: 140vh;
-  right: .5vw;
+  right: 0.5vw;
   font-size: 1.4vw;
     font-family: tuppence,serif;
   font-weight: 300;

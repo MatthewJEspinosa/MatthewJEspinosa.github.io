@@ -58,11 +58,6 @@ div.moree{
   height: 50vh;
 }
 
-div.gallery:hover {
-  border: 1px solid #777;
-  opacity: 1;
-}
-
 div.gallery img {
   width: 100%;
   height: 100%;
@@ -123,7 +118,7 @@ div.moree img {
   top: 93vh;
   left: 8vw;
   font-size: 1.3vw;
-  line-height: 26px;
+  line-height: 27px;
   text-align: right;
     font-family: tuppence,serif;
   font-weight: 300;
@@ -147,7 +142,7 @@ div.moree img {
   top: 151vh;
   right: 6vw;
   font-size: 1.3vw;
-  line-height: 26px;
+  line-height: 27px;
     font-family: tuppence,serif;
   font-weight: 300;
   font-style: normal;

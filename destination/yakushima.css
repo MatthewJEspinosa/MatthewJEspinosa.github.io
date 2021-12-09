@@ -1,9 +1,9 @@
 .title{
-  width: 48vw;
+  width: 40vw;
   height: 10vh;
   position: relative;
   top: 0vh;
-  left: 27vw;
+  left: 30vw;
   border-style: solid;
   border-color: rgb(0, 0, 0,);
 }
@@ -11,7 +11,7 @@
 .title2{
   position: absolute;
   top: -10vh;
-  left: 3vw;
+  left: 3.5vw;
   font-size: 4vw;
   font-family: tuppence,serif;
   font-weight: 300;
@@ -79,10 +79,10 @@ div.moree img {
 }
 
 .what{
-  width: 40vw;
+  width: 35vw;
   position: absolute;
   top: 22vh;
-  right: 0.5vw;
+  right: 5.5vw;
   font-size: 1.4vw;
     font-family: tuppence,serif;
   font-weight: 300;
@@ -105,7 +105,7 @@ div.moree img {
   width: 35vw;
   position: absolute;
   top: 82vh;
-  left: 8vw;
+  left: 13vw;
   font-size: 1.4vw;
     font-family: tuppence,serif;
   font-weight: 300;
@@ -118,7 +118,7 @@ div.moree img {
   top: 93vh;
   left: 8vw;
   font-size: 1.3vw;
-  line-height: 27px;
+  line-height: 26px;
   text-align: right;
     font-family: tuppence,serif;
   font-weight: 300;
@@ -126,10 +126,10 @@ div.moree img {
 }
 
 .how{
-  width: 40vw;
+  width: 35vw;
   position: absolute;
   top: 140vh;
-  right: .5vw;
+  right: 5vw;
   font-size: 1.4vw;
     font-family: tuppence,serif;
   font-weight: 300;
@@ -142,17 +142,17 @@ div.moree img {
   top: 151vh;
   right: 6vw;
   font-size: 1.3vw;
-  line-height: 27px;
+  line-height: 26px;
     font-family: tuppence,serif;
   font-weight: 300;
   font-style: normal;
 }
 
 .more{
-  width: 55vw;
+  width: 50vw;
   position: absolute;
   top: 205vh;
-  left: 0vw;
+  left: 1vw;
   font-size: 1.4vw;
   text-align: center;
     font-family: tuppence,serif;

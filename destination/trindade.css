@@ -10,7 +10,7 @@
 
 .title2{
   position: absolute;
-  top: -9vh;
+  top: -9.5vh;
   left: 7vw;
   font-size: 4vw;
   font-family: tuppence,serif;
@@ -123,7 +123,7 @@ div.moree img {
   top: 93vh;
   left: 8vw;
   font-size: 1.3vw;
-  line-height: 26px;
+  line-height: 27px;
   text-align: right;
     font-family: tuppence,serif;
   font-weight: 300;
@@ -147,7 +147,7 @@ div.moree img {
   top: 151vh;
   right: 6vw;
   font-size: 1.3vw;
-  line-height: 26px;
+  line-height: 27px;
     font-family: tuppence,serif;
   font-weight: 300;
   font-style: normal;

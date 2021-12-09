@@ -1,3 +1,28 @@
+.title{
+  width: 20vw;
+  height: 10vh;
+  position: relative;
+  top: 0vh;
+  left: 65vw;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+}
+
+.title2{
+  position: absolute;
+  top: -8vh;
+  left: 5vw;
+  font-size: 4vw;
+  font-family: tuppence,serif;
+  font-weight: 300;
+  font-style: normal;
+  color: rgb(255, 255, 255);
+}
+
+body{
+	background-color: rgb(0, 4, 86);
+}
+
 .map{
 	position: absolute;
 	top: 0;
@@ -5,53 +30,53 @@
 	bottom: 0;
 	right: 0;
 	margin: auto;
-	width: 100vw;
-	height: 100vh;
+	width: 1000px;
+	height: 700px;
 	background-image: url(africa.svg);
 	background-size: contain;
 	background-position: center;
 	background-repeat: no-repeat;
-	background-color: rgb(30, 60, 170);
+	background-color: rgb(0, 4, 86);
 }
 
 .lewa{
 	position: absolute;
 	width: 50px;
 	height: 50px;
-	bottom: 48vh;
-	left: 64vw;
+	bottom: 340px;
+	left: 665px;
 }
 
 .kafue{
 	position: absolute;
 	width: 50px;
 	height: 50px;
-	bottom: 26vh;
-	left: 56vw;
+	bottom: 180px;
+	left: 575px;
 }
 
 .ladigue{
 	position: absolute;
 	width: 50px;
 	height: 50px;
-	bottom: 44vh;
-	left: 78vw;
+	bottom: 290px;
+	left: 820px;
 }
 
 .table{
 	position: absolute;
 	width: 50px;
 	height: 50px;
-	bottom: 1vh;
-	left: 49vw;
+	bottom: 5px;
+	left: 490px;
 }
 
 .capsainte{
 	position: absolute;
 	width: 50px;
 	height: 50px;
-	bottom: 11.7vh;
-	left: 68.3vw;
+	bottom: 80px;
+	left: 725px;
 }
 
 .button{

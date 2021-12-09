@@ -1,3 +1,28 @@
+.title{
+  width: 30vw;
+  height: 10vh;
+  position: relative;
+  top: 0vh;
+  left: 60vw;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+}
+
+.title2{
+  position: absolute;
+  top: -8vh;
+  left: 3vw;
+  font-size: 4vw;
+  font-family: tuppence,serif;
+  font-weight: 300;
+  font-style: normal;
+  color: rgb(255, 255, 255);
+}
+
+body{
+	background-color: rgb(0, 4, 86);
+}
+
 .map{
 	position: absolute;
 	top: 0;
@@ -5,53 +30,53 @@
 	bottom: 0;
 	right: 0;
 	margin: auto;
-	width: 100vw;
-	height: 100vh;
+	width: 1000px;
+	height: 700px;
 	background-image: url(NorthAmerica.svg);
 	background-size: contain;
 	background-position: center;
 	background-repeat: no-repeat;
-	background-color: rgb(30, 60, 170);
+	background-color: rgb(0, 4, 86);
 }
 
 .tulum{
 	position: absolute;
 	width: 50px;
 	height: 50px;
-	bottom: 7vh;
-	left: 64.3vw;
+	bottom: 58px;
+	left: 607px;
 }
 
 .olympic{
 	position: absolute;
 	width: 50px;
 	height: 50px;
-	bottom: 46.4vh;
-	left: 44.5vw;
+	bottom: 325px;
+	left: 360px;
 }
 
 .haida{
 	position: absolute;
 	width: 50px;
 	height: 50px;
-	bottom: 56vh;
-	left: 42.2vw;
+	bottom: 390px;
+	left: 331px;
 }
 
 .killary{
 	position: absolute;
 	width: 50px;
 	height: 50px;
-	bottom: 42.5vh;
-	left: 65.5vw;
+	bottom: 295px;
+	left: 615px;
 }
 
 .palenque{
 	position: absolute;
 	width: 50px;
 	height: 50px;
-	bottom: 3vh;
-	left: 60vw;
+	bottom: 25px;
+	left: 555px;
 }
 
 .button{
