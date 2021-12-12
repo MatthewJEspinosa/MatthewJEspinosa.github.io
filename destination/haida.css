@@ -165,10 +165,10 @@ div.moree img {
   position: absolute;
   top: 2vh;
   left: 2vw;
-  width: 140px;
-  height: 60px;
-  background-color: rgba(100, 180, 100, .9);
-  border-radius: 20px 20px 20px 20px;
+  width: 12vw;
+  height: 12vh;
+  background-image: url(backbutton2.svg);
+  background-repeat: no-repeat;
 }
 
 .button2{

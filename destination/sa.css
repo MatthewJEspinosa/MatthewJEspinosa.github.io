@@ -1,8 +1,8 @@
 .title{
-  width: 30vw;
+  width: 34vw;
   height: 10vh;
   position: relative;
-  top: 0vh;
+  top: 1vh;
   left: 60vw;
   border-style: solid;
   border-color: rgb(255, 255, 255);
@@ -10,7 +10,7 @@
 
 .title2{
   position: absolute;
-  top: -8vh;
+  top: -9.5vh;
   left: 3vw;
   font-size: 4vw;
   font-family: tuppence,serif;
@@ -83,10 +83,10 @@ body{
 	position: absolute;
 	top: 2vh;
 	left: 2vw;
-	width: 140px;
-	height: 60px;
-	background-color: rgba(100, 180, 100, .9);
-	border-radius: 20px 20px 20px 20px;
+	width: 12vw;
+	height: 12vh;
+	background-image: url(backbutton.svg);
+	background-repeat: no-repeat;
 }
 
 .button2{
